@@ -1,3 +1,4 @@
+[![Actions Status](https://wdp9fww0r9.execute-api.us-west-2.amazonaws.com/production/badge/actions/action-builder)](https://wdp9fww0r9.execute-api.us-west-2.amazonaws.com/production/results/actions/action-builder)
 # Tools for building GitHub Actions
 
 This repository contains actions that can be used to automate the testing, building, and deployment of custom GitHub Actions using workflows.
